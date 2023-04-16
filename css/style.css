@@ -36,8 +36,12 @@ body {
     font-size: 18px;
     line-height: 1.17; 
     letter-spacing: 0.03em;
-    color: var(--color-iris);
     text-transform: uppercase;
+}
+
+.variable-color-web {
+
+    color: var(--color-iris);
 }
 
 .logo-web:hover,
@@ -52,8 +56,12 @@ body {
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
-        color: #2E2F42;
         text-transform: uppercase;
+}
+
+.variable-color-studio {
+
+    color: var(--color-navy-blue);
 }
 
 .logo-studio:hover,
@@ -62,9 +70,11 @@ body {
     color: #404BBF;
  }
 
+
+
  .link {
 
-    text-decoration: none;
+    color: var(--color-iris);
  }
 
  /*Navigation*/
