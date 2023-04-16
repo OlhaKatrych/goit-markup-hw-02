@@ -36,6 +36,7 @@ body {
     font-size: 18px;
     line-height: 1.17; 
     letter-spacing: 0.03em;
+    text-decoration: none;
     text-transform: uppercase;
 }
 
@@ -70,13 +71,10 @@ body {
     color: #404BBF;
  }
 
-
-
- .link {
-
-    color: var(--color-iris);
- }
-
+.link {
+    
+    text-decoration: none;
+}
  /*Navigation*/
 
  .list {
