@@ -120,6 +120,11 @@ body {
     color: #434455;
 }
 
+.contacts {
+
+    font-style: normal;
+}
+
 .contacts-link:hover,
 .contacts-link:focus {
 
