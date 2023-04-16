@@ -235,7 +235,7 @@ body {
 
 .logo-studio-footer {
 
-    
+        font-family: 'Raleway';
         font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
@@ -243,6 +243,11 @@ body {
         color: #F4F4FD;
         text-decoration: none;
         text-transform: uppercase;
+}
+
+.variable-color-foote {
+
+    color: var(--color-cloud);
 }
 
 .logo-studio-footer:hover,
