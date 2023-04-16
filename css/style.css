@@ -2,7 +2,7 @@
 :root {
 
     /*Colors*/
-    
+
     --color-iris: #4d5ae5;
     --color-ocean: #404bbf;
     --color-navy-blue: #2e2f42;
@@ -34,10 +34,9 @@ body {
     font-family: Raleway, sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.16; 
+    line-height: 1.17; 
     letter-spacing: 0.03em;
-    color: #4D5AE5;
-    text-decoration: none;
+    color: var(--color-iris);
     text-transform: uppercase;
 }
 
@@ -51,10 +50,9 @@ body {
         font-family: Raleway, sans-serif;
         font-weight: 800;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         color: #2E2F42;
-        text-decoration: none;
         text-transform: uppercase;
 }
 
@@ -62,6 +60,11 @@ body {
 .logo-studio:focus {
 
     color: #404BBF;
+ }
+
+ .link {
+
+    text-decoration: none;
  }
 
  /*Navigation*/
@@ -226,7 +229,7 @@ body {
     
         font-weight: 800;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         color: #F4F4FD;
         text-decoration: none;
