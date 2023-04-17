@@ -45,11 +45,6 @@ body {
     color: var(--color-iris);
 }
 
-.logo-web:hover,
-.logo-web:focus {
-
-    color: #404BBF;
-}
 .logo-studio {
 
         font-family: Raleway, sans-serif;
@@ -65,12 +60,6 @@ body {
 
     color: var(--color-navy-blue);
 }
-
-.logo-studio:hover,
-.logo-studio:focus {
-
-    color: #404BBF;
- }
 
 .link {
 
@@ -94,7 +83,6 @@ body {
 
 .list-link{
 
-    text-decoration: none;
     color: #2E2F42;;
 }
 
@@ -115,8 +103,6 @@ body {
 
 .contacts-link {
     
-    font-style: normal;
-    text-decoration: none;
     color: #434455;
 }
 
@@ -181,8 +167,6 @@ body {
 
 .features-text {
 
-    
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -259,14 +243,6 @@ body {
     color: var(--color-cloud);
 }
 
-.logo-studio-footer:hover,
-.logo-studio-footer:focus{
-
-
-    color: #404BBF;
-
-}
-
 .footer-text {
 
     
@@ -324,8 +300,6 @@ body {
 
 .portfolio-text {
 
-    
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
